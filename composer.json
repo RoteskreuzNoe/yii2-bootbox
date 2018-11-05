@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "rklandesverband\\bootbox\\": ""
+            "rklandesverband\\bootbox\\": "src/"
         }
     },
     "repositories": {
