@@ -1,7 +1,7 @@
 {
     "name": "rklandesverband/yii2-bootbox",
     "description":  "Bootbox.js is a small JavaScript library which allows you to create programmatic dialog boxes using Bootstrap modals, without having to worry about creating, managing or removing any of the required DOM elements or JS event handlers. ",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "type": "yii2-extension",
     "keywords": ["yii2","extension", "bootbox", "assets"],
     "license": "BSD-3-Clause",
